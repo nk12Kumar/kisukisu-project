@@ -1,10 +1,10 @@
-# KusuKusu
+# KisuKisu
 
 ![Status](https://img.shields.io/badge/status-phase%201%20%C2%B7%20interface%20only-e0a86b?style=flat-square&labelColor=0a0b0d)
 
 **A private table for a few people.** Not another messenger.
 
-KusuKusu — குசு குசு, the Tamil sound of whispering — is a small desktop application for
+KisuKisu — கிசுகிசு, the Tamil word for whispering — is a small desktop application for
 end-to-end encrypted conversation between people who already know each other. There are no
 accounts to create. You sit down at a table, and when the table is cleared, the conversation
 is gone.
@@ -25,7 +25,7 @@ Every messenger you already use is an archive with a chat window attached. Histo
 by default, an account identifies you forever, and the company running it can see who talks to
 whom. For a family group or four friends, most of that is unnecessary.
 
-KusuKusu starts from the opposite assumption: **a conversation is an event, not a record.**
+KisuKisu starts from the opposite assumption: **a conversation is an event, not a record.**
 
 A **table** is opened by one person. Everyone else joins with a name and a short code —
 `KUSA-7F2Q` — the way you'd tell someone which table you're sitting at. When the host ends it,
@@ -96,7 +96,7 @@ screen, and the Security page lists what is implemented and what is not.
 
 **Why not just use Signal?**
 Signal is excellent, and if you want one app for everything with a permanent history, use it.
-KusuKusu is for the different shape: a temporary table, no account, no archive, and a server
+KisuKisu is for the different shape: a temporary table, no account, no archive, and a server
 your group owns.
 
 **Do I need an account or a phone number?**
@@ -125,11 +125,13 @@ code, no binaries, no configuration.
 
 ## Name
 
-**KusuKusu** (குசு குசு) is the Tamil word for the sound of something said quietly, close by.
-It is also, in a schoolyard sense, a slightly rude word — which the friends it was built for
-find funny.
+**KisuKisu** (கிசுகிசு) is the Tamil word for whispering — two syllables, said twice, the sound of
+something passed quietly between people who trust each other. It replaces an earlier name that
+turned out to be a homophone of a rude word, which is exactly the sort of thing you find out
+after printing the stationery.
+
 
 ---
 
-© The KusuKusu project. Documentation shared for reading; no licence is granted for the
+© The KisuKisu project. Documentation shared for reading; no licence is granted for the
 application itself.

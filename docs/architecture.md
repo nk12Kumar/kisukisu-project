@@ -4,7 +4,7 @@
 
 ```
 ┌──────────────────────────┐        ┌──────────────────────────┐
-│  KusuKusu desktop        │        │  KusuKusu desktop        │
+│  KisuKisu desktop        │        │  KisuKisu desktop        │
 │  Windows / Linux         │        │  Windows / Linux         │
 │                          │        │                          │
 │  React interface         │        │  React interface         │

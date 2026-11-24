@@ -55,7 +55,7 @@ future messages.
 ### Recovery and the "nothing stored" tension
 
 A recovery key makes history readable on a new device; "no history kept" argues against having
-one. KusuKusu resolves this by having no recovery key in the first release: lose the devices,
+one. KisuKisu resolves this by having no recovery key in the first release: lose the devices,
 lose the history, and the interface says so before anyone relies on it.
 
 ### Logging
