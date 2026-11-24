@@ -11,11 +11,16 @@ is gone.
 
 ![A table with people in it](screenshots/table-dark.png)
 
-> **Status: Phase 1 of 7 — the interface exists, the encryption does not yet.**
+> **Status: Phase 1 shipped. Phase 2 written, not deployed.**
 > The app runs entirely on your device with sample data. It has no network connection and no
-> cryptography, and it says so on screen rather than implying otherwise. What is and is not
-> true today is recorded in [docs/security.md](docs/security.md) — that file is the honest one,
-> not this page.
+> cryptography, and it says so on screen rather than implying otherwise.
+>
+> The server that will make two people in different cities sit at the same table now exists as
+> code — Synapse with registration and federation closed, a join service that trades a name and a
+> code for a seat, TLS, encrypted backups. It has been tested where it can be tested and has never
+> been run on a real machine. Until it has, it is written, not working. What is and is not true
+> today is recorded in [docs/security.md](docs/security.md) — that file is the honest one, not
+> this page.
 
 ## Try it on your phone
 
