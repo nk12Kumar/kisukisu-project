@@ -17,6 +17,21 @@ is gone.
 > true today is recorded in [docs/security.md](docs/security.md) — that file is the honest one,
 > not this page.
 
+## Try it on your phone
+
+Open **https://nk12kumar.github.io/kisukisu-web/** in Safari, then **Share → Add to Home
+Screen**. It installs with its own icon, opens without browser chrome, and works offline from
+the cached shell.
+
+| Installed on a phone |
+|---|
+| ![Phone](screenshots/phone-dark.png) |
+
+Be clear about what that link is: a real, installable client with **no server behind it yet**.
+You can open a table, copy its code, write, react, reply and end it — nothing leaves the device,
+and no second person can join until Phase 2 exists. The screen says so rather than pretending
+the connection is there.
+
 ---
 
 ## The idea
