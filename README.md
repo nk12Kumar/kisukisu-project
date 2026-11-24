@@ -1,5 +1,7 @@
 # KusuKusu
 
+![Status](https://img.shields.io/badge/status-phase%201%20%C2%B7%20interface%20only-e0a86b?style=flat-square&labelColor=0a0b0d)
+
 **A private table for a few people.** Not another messenger.
 
 KusuKusu — குசு குசு, the Tamil sound of whispering — is a small desktop application for
@@ -41,9 +43,9 @@ that better.
 
 ## What it looks like
 
-| Live table | Table with nobody in it yet |
+| A table that has just been ended | A table with nobody in it yet |
 |---|---|
-| ![Table](screenshots/table-dark.png) | ![Empty table](screenshots/empty-dark.png) |
+| ![Closed](screenshots/closed-dark.png) | ![Empty table](screenshots/empty-dark.png) |
 
 | Details drawer | The same screen on paper |
 |---|---|
